@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Krishna Rao"
   avatar           : "profile.jpg"
-  bio              : "PhD candidate at Stanford University, develop machine learning algorithms for forest monitoring"
+  bio              : "PhD candidate at Stanford University.\nDevelop machine learning algorithms for forest health monitoring."
   location         : "Stanford, California"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-UCmLrUAAAAJ&hl=en"
   email            : "kkrao dot j at g mail dot com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  medium           : "https://medium.com/@kkrao"
 
 # Reading Files
 include:
