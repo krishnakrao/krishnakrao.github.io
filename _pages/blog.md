@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 <div id="retainable-rss-embed" 
-data-rss="https://medium.com/feed/@kkrao"
+data-rss="https://medium.com/@kkrao"
 data-maxcols="3" 
 data-layout="grid" 
 data-poststyle="inline" 
