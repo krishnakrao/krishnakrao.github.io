@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-![](/images/Resume.pdf)
+<a href="krishnakrao.github.io/images/Resume.pdf" target="_blank">PDF.</a>
