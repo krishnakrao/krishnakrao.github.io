@@ -7,6 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![](/images/coverpicture.jpg)
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to Krishna Rao's home on the web!
 
+I am a PhD candidate in Earth System Science at Stanford University. 
+
+I develop machine learning algorithms to measure forest health (how wet or dry the forests are) using remote sensing. I work in the [Remote Sensing Ecohydrology Group](https://koningslab.stanford.edu/) with Prof. Alexandra Konings. Before I started my PhD, I pursued my masters in Civil and Environmental Engineering at Stanford University and bachelors in Civil Engineering at Indian Institute of Technology Madras. For a brief period between my bachelors and masters, I was a wireline field engineer at Schlumberger in Northeast India. 
+
+My research interests include understanding forest hydraulic health dynamics towards charecterizing wildfire risk and drought impacts on vegetation. To do so, I work across several scales - from plot-scale measurements to landscape-scale estimations.  To know more about my research, check out my [publications](https://krishnakrao.github.io/publications/). 
+
+My work involves developing data-driven approaches to understand the Earth system. While learning skills related to data science, I worked on several projects to gain hands-on experience. The [projects tab](https://krishnakrao.github.io/projects/) includes such side projects.
+
+My hobbies include bicycle touring, and triathlons. I am passionate about them and devote my entire free time to them. You can read more about my hobbies and other educational material on the [blog section](https://krishnakrao.github.io/blog/). 
