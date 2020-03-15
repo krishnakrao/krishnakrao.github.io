@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<a href="krishnakrao.github.io/images/Resume.pdf" target="_blank">PDF.</a>
+<embed src="https://krishnakrao.github.io/images/Resume.pdf" type="application/pdf" />
