@@ -1,7 +1,18 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Fix the Jet"
+excerpt: "Swap colormaps in images to those that are colorblind-friendly and perceptually uniform <br/><img src='/images/fixthejet.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+# fixthejet
+
+Information is *not* knowledge. 
+
+Information can be transformed into knowledge by consuming it in a way to understand patterns. One of the primary ways to consume large quantities of information is through pictures: charts, plots, maps that convey the message. Before, 2015, many such figures were inadvertantly prepared using a color scheme called _jet_ that is visually stimulating due to the abundance of colors. Unfortunately, we have come to know of the harm it causes only recently. The _jet_ is not [perceptually uniform](https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/) which is a fancy way of saying what you see is not what you get. The colormap is known to create artificial gradients in perceptibility which can mislead interpretations of figures. It is also extremely unfriendly to people with colorblindness. For more information check out the [presentation](https://www.youtube.com/watch?v=xAoljeRJ3lU) of launch of the new default colormaps in _matpltolib_. 
+
+This script allows you to change an image (.jpg/.png) file made with _jet_ colormap to any other colormap of your choice. The script selectively changes _jet_ colors only. All others colors in the image remain unchanged (including background and text). 
+
+<img src='/images/fixthejet.png'>
+
+[Link to repository](https://github.com/kkraoj/fixthejet)
+
