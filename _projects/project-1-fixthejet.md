@@ -1,7 +1,7 @@
 ---
 title: "Fix the Jet"
 excerpt: "Make images and figures colorblind friendly by swapping their colormaps <br/><img src='/images/fixthejet.jpg'>"
-collection: portfolio
+collection: projects
 ---
 
 # fixthejet
