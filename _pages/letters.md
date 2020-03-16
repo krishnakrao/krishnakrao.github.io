@@ -1,9 +1,10 @@
-  ---
+---
 layout: archive
 title: "Letters"
 permalink: /letters/
 author_profile: true
 ---
+
 {% include image.html url="/images/map.png" caption="Predicted vegetation wetness over western US using remote sensing and deep learning." %}
 
 {% if author.googlescholar %}
