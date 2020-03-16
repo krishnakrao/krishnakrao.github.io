@@ -8,7 +8,5 @@ Seasons on Earth are a result of the tilt in its axis of rotation. Many studies 
 
 {% include image.html url="/images/seasoninfer.png" caption="Linear regression between date of leaf greening and latitude. Slope of fit represents tilt in Earth's axis" %}
 
-
-[Link to paper](https://www.researchgate.net/publication/322406105_Can_We_Infer_Seasons_by_Looking_at_Nature)
-
+<a href="https://www.researchgate.net/publication/322406105_Can_We_Infer_Seasons_by_Looking_at_Nature" target="_blank">Link to paper</a>
 
