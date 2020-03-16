@@ -10,7 +10,5 @@ Therefore, in this project, I used machine learning to predict local fire risks 
 
 {% include image.html url="/images/firepredsea.png" caption="Confusion matrix of model performance. Classification accuracy = 71%" %}
 
-
-[Link to paper](http://cs229.stanford.edu/proj2017/final-reports/5239270.pdf)
-
+<a href="http://cs229.stanford.edu/proj2017/final-reports/5239270.pdf" target="_blank">Link to paper</a>
 
