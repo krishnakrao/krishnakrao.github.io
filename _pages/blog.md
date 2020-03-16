@@ -21,4 +21,4 @@ data-offset="-100"></div>
 
 <script src="https://www.retainable.io/assets/retainable/rss-embed/retainable-rss-embed.js"></script>
 
-[Visit my blog to view all articles](https://medium.com/@kkrao)
+<a href="https://medium.com/@kkrao" target="_blank">Visit my blog to view all articles</a>
