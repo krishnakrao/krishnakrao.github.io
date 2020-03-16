@@ -5,7 +5,7 @@ entries_layout: grid
 permalink: /blog/
 author_profile: true
 ---
-
+![](/images/coverpicture.jpeg)
 {% include base_path %}
 
 ## Latest articles
