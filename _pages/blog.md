@@ -11,7 +11,7 @@ author_profile: true
 ## Latest articles
 
 <div id="retainable-rss-embed" 
-data-rss="https://medium.com/feed/@kkrao"
+data-rss="https://medium.com/feed/@kkrao, https://medium.com/feed/bicycletouring"
 data-maxcols="3" 
 data-layout="grid" 
 data-poststyle="inline" 
