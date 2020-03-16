@@ -2,7 +2,7 @@
 layout: archive
 title: Projects
 permalink: /projects/
-author_profile: false
+author_profile: true
 collection: projects
 entries_layout: grid
 classes: wide
