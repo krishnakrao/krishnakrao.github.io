@@ -1,6 +1,6 @@
 ---
 title: "Fix the Jet"
-excerpt: "Swap colormaps in images to those that are colorblind-friendly and perceptually uniform <br/><img src='/images/fixthejet.jpg'>"
+excerpt: "Make images and figures colorblind friendly by swapping their colormaps <br/><img src='/images/fixthejet.jpg'>"
 collection: portfolio
 ---
 
