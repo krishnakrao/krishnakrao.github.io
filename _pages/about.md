@@ -18,4 +18,4 @@ My work involves developing data-driven approaches to understand the Earth syste
 
 My hobbies include bicycle touring, and triathlons. I am passionate about them and devote my entire free time to them. You can read more about my hobbies and other educational material on the [blog section](https://krishnakrao.github.io/blog/). 
 
-{% include image.html url="/images/coverpicture.png"%}
+{% include image.html url="/images/coverpicture.jpeg"%}
