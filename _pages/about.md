@@ -17,3 +17,5 @@ My research interests include understanding forest hydraulic health dynamics tow
 My work involves developing data-driven approaches to understand the Earth system. While learning skills related to data science, I worked on several projects to gain hands-on experience. The [projects tab](https://krishnakrao.github.io/projects/) includes such side projects.
 
 My hobbies include bicycle touring, and triathlons. I am passionate about them and devote my entire free time to them. You can read more about my hobbies and other educational material on the [blog section](https://krishnakrao.github.io/blog/). 
+
+{% include image.html url="/images/coverpicture.png"%}
