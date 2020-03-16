@@ -2,14 +2,13 @@
 layout: archive
 title: "Educational and travel blog posts"
 entries_layout: grid
-title: "Blog"
 permalink: /blog/
 author_profile: true
 ---
 
 {% include base_path %}
 
-# Latest articles
+## Latest articles
 
 <div id="retainable-rss-embed" 
 data-rss="https://medium.com/feed/@kkrao"
