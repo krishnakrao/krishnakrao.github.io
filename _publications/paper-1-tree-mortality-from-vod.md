@@ -1,7 +1,7 @@
 ---
 title: "Satellite-based vegetation optical depth as an indicator of drought-driven tree mortality"
 collection: publications
-permalink: 
+permalink: paper-1-tree-mortality-from-vod
 excerpt: 'This paper is about developing a scalable plant drought stress indicator using vegetation optical depth.'
 date: 2019-03-01
 venue: 'Remote Sensing of Environment'
