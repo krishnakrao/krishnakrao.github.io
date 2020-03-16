@@ -14,11 +14,22 @@ layout: default
 
 <div id="main" role="main">
   {% include sidebar.html %}
-  <h1 class="page__title">{{ page.title }}</h1>
-  <div class="archive">
-    {% unless page.header.overlay_color or page.header.overlay_image %}
-      
-    {% endunless %}
-    {{ content }}
-  </div>
+  
+ {% if page.title=='Projects' %}
+    <h1 class="page__title">{{ page.title }}</h1> 
+    <div class="archive">
+      {% unless page.header.overlay_color or page.header.overlay_image %}
+
+      {% endunless %}
+      {{ content }}
+    </div>
+  {% else %}
+    <div class="archive">
+      {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 class="page__title">{{ page.title }}</h1> 
+      {% endunless %}
+      {{ content }}
+    </div>
+  {% endif %}
+  
 </div>
