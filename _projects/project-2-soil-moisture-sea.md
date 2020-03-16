@@ -8,7 +8,7 @@ Land fires in Southeast Asia have increased dramatically over the past 30 years 
 
 Therefore, in this project, I used machine learning to predict local fire risks from remote sensing satellite data over the tropical peatlands of Borneo, Sumatra, and Peninsular Malaysia in 2015- one of the worst years. The input to my algorithm was remote sensing data collected over seven features--soil moisture, vegetation optical depth, specific humidity, temperature, precipitation, potential and actual evapotranspiration over 25 km spatial grids in Southeast Asian peatlands. I then used multinomial logistic (Softmax) regression to output a predicted fire risk class. The objective of the study was to do better than the already existing fire index predictor which is said to have an accuracy of 50%. 
 
-{% include image.html url="/images/firepredsea.png" caption="Confiusion matrix of model performance. Classification accuracy = 71%" %}
+{% include image.html url="/images/firepredsea.png" caption="Confusion matrix of model performance. Classification accuracy = 71%" %}
 
 
 [Link to paper](http://cs229.stanford.edu/proj2017/final-reports/5239270.pdf)
