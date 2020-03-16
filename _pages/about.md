@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to Krishna Rao's home on the web!
 
 I am a PhD candidate in Earth System Science at Stanford University. 
 
