@@ -1,6 +1,6 @@
 ---
 title: "Leafnet: Species identification using leaf images"
-excerpt: "Identify species of a tree using an image of its leaf. Model powered by deep learning. Model deployed as a google chatbot. Detecting fire occurence in Southeast Asia using satellite remote sensing and machine learning <br/><img src='/images/leafnet.png'>"
+excerpt: "Identify species of a tree using an image of its leaf. Model powered by deep learning and hosted as a chatbot. <br/><img src='/images/leafnet.png'>"
 collection: projects
 ---
 
