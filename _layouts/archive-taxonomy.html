@@ -6,7 +6,8 @@ author_profile: false
 <div id="main" role="main">
   {% include sidebar.html %}  
   <h1 class="page__title">{{ page.title }}</h1>
-  <div class="grid__wrapper">
+  <!-- <div class="grid__wrapper"> -->
+  {% include base_path %}
     {% for post in page.posts %}
       {% include archive-single.html type="grid" %}
     {% endfor %}
