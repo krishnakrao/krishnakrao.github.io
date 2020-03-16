@@ -16,7 +16,12 @@ layout: default
   {% include sidebar.html %}
   
  {% if page.title=='Projects' %}
-    <img hspace = 500> <h1 class="page__title">{{ page.title }}</h1> 
+    <h1 class="page__title">{{ page.title }}</h1> 
+    <style>
+      p {
+      margin: 250px 100px 150px 200px;
+      }
+    </style>
     <div class="archive">
       {% unless page.header.overlay_color or page.header.overlay_image %}
 
