@@ -10,7 +10,7 @@ Flood Mapper is a near-real time flood mapping tool which takes into account mul
 
 {% include image.html url="/images/floopmapper.png" caption="Flooding extent in Venice mapped just 4 hours after a flood using Flood Mapper." %}
 
+<a href="https://devpost.com/software/floodmapper" target="_blank">Link to respository</a>
 
-[Link to repository](https://devpost.com/software/floodmapper)
 
 
