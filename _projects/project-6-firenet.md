@@ -4,7 +4,7 @@ excerpt: "A deep learning system saving you from falling into the trap of wildfi
 collection: projects
 ---
 
-Try my web-based risk forecasting tool [here](https://kkraoj.users.earthengine.app/view/wildfire-danger).
+Try the web-based risk forecasting tool <a href="https://kkraoj.users.earthengine.app/view/wildfire-danger" target="_blank">here</a>
 
 Climate change is exacerbating wildfire likelihood and severity in the western USA. For instance, in the state of California, USA, in the last century, 12 of the largest wildfires, 13 of the most destructive wildfires, and 7 of the deadliest wildfires occurred during the last decade. Wildfires emit massive amounts of harmful particulate matter posing a direct threat to humans. The severity of wildfire's effects combined with the probability of them worsening in the future due to climate change. Most importantly, increasing wildfire risk prompts an urgent need to understand, estimate, and forecast wildfire risk for social inequality. Our FireNet, a deep-learning-powered system, helps improve the forecasting of wildfire risk by the following "PR. S^3" solutions:
 
@@ -25,7 +25,5 @@ FireNet is the first wildfire risk forecasting system that operates at 250 m spa
 
 {% include image.html url="/images/firenet.png" caption="Firenet web-app being used to understand wildfire risk." %}
 
-
-[Link to repository](https://devpost.com/software/wildfire-risk-treehacks)
-
+<a href="https://devpost.com/software/wildfire-risk-treehacks" target="_blank">Link to project</a>
 
