@@ -11,34 +11,6 @@
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<meta property="og:title"
-    content="{% if page.title %}
-      {{ page.title | strip_html | strip_newlines | truncate: 160 }}
-    {% else %}
-      {{ site.title }}
-    {% endif %}">
-<meta property="og:description"
-    content="{% if page.excerpt %}
-        {{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}
-      {% else %}
-        {{ site.description }}
-      {% endif %}">
-<meta property="og:url"
-    content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
-<meta property="og:site_name" content="{{ site.title }}" />
-<meta property="og:locale" content="en_US" />
- {% if page.image %}
-    <meta property="og:image" content="{{page.image}}" />
-    <meta name="twitter:image" content="{{page.image}}" />
-  {% else %}
-    <meta property="og:image" content="/images/coverpicture.jpeg" />
-  {% endif %}
-{% else %}
-  <!-- OG data for homepage -->
-  <meta property="og:image" content="/images/coverpicture.jpeg" />
-  <meta property="og:type" content="website" />
-{% endif %}
-
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
