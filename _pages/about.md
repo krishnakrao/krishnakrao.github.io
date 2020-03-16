@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-image: "/images/coverpicture.jpeg"
+image: /images/coverpicture.jpeg
 ---
 
 I am a PhD candidate in Earth System Science at Stanford University. 
