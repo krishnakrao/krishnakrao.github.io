@@ -14,7 +14,4 @@ Understanding and preserving worldwide biodiversity is central to addressing cha
 
 {% include image.html url="/images/leafnet.png" caption="Leafnet chatbot in action- user captures an image of a leaf on white background and chatbot replies with the predicted species instantly" %}
 
-
-[Link to repository](https://github.com/kkraoj/leafnet)
-
-
+<a href="https://github.com/kkraoj/leafnet" target="_blank">Link to repository</a>
