@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Krishna Rao"
-  avatar           : "profile.jpg"
+  avatar           : "profile_blur.jpg"
   bio              : "Earth Scientist developing machine learning algorithms for forest health monitoring. <br />Pursuing my PhD at Stanford University."
   location         : "Stanford, California"
   employer         :
