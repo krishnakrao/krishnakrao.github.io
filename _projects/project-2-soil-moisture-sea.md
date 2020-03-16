@@ -4,16 +4,10 @@ excerpt: "Detecting fire occurence in Southeast Asia using satellite remote sens
 collection: portfolio
 ---
 
-# fixthejet
+Land fires in Southeast Asia have increased dramatically over the past 30 years due to changes in land use and population density, draining of swamp forests, etc.. In 2015, Indonesian fires alone are estimated to have emitted as much carbon dioxide as India’s annual fossil fuel usage, and to have caused around 12,000 premature deaths. The massive negative environmental and health impacts have prompted increasing interest from regional governments in better quantifying fire risks and identifying land management strategies. One of the major contributing factors is the equatorial Asian peatlands, which is one of the world’s biggest carbon sinks. However, regional-scale investigation of peatland hydrology is made difficult by the location's inaccessibility of peat forests. 
 
-Information is *not* knowledge. 
+Therefore, in this project, I used machine learning to predict local fire risks from remote sensing satellite data over the tropical peatlands of Borneo, Sumatra, and Peninsular Malaysia in 2015- one of the worst years. The input to my algorithm was remote sensing data collected over seven features--soil moisture, vegetation optical depth, specific humidity, temperature, precipitation, potential and actual evapotranspiration over 25 km spatial grids in Southeast Asian peatlands. I then used multinomial logistic (Softmax) regression to output a predicted fire risk class. The objective of the study was to do better than the already existing fire index predictor which is said to have an accuracy of 50%. 
 
-Information can be transformed into knowledge by consuming it in a way to understand patterns. One of the primary ways to consume large quantities of information is through pictures: charts, plots, maps that convey the message. Before, 2015, many such figures were inadvertantly prepared using a color scheme called _jet_ that is visually stimulating due to the abundance of colors. Unfortunately, we have come to know of the harm it causes only recently. The _jet_ is not [perceptually uniform](https://programmingdesignsystems.com/color/perceptually-uniform-color-spaces/) which is a fancy way of saying what you see is not what you get. The colormap is known to create artificial gradients in perceptibility which can mislead interpretations of figures. It is also extremely unfriendly to people with colorblindness. For more information check out the [presentation](https://www.youtube.com/watch?v=xAoljeRJ3lU) of launch of the new default colormaps in _matpltolib_. 
-
-This script allows you to change an image (.jpg/.png) file made with _jet_ colormap to any other colormap of your choice. The script selectively changes _jet_ colors only. All others colors in the image remain unchanged (including background and text). 
-
-<img src='/images/fixthejet.jpg'>
-
-[Link to repository](https://github.com/kkraoj/fixthejet)
+[Link to paper](http://cs229.stanford.edu/proj2017/final-reports/5239270.pdf)
 
 
