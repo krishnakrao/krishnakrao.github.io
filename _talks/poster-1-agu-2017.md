@@ -8,4 +8,4 @@ date: 2017-12-12
 location: "New Orleans, Louisiana"
 ---
 
-[Link to poster](https://www.dropbox.com/s/59cu46h3kr8xrca/AGU_poster_ver5.pdf?dl=0)
+<a href="https://www.dropbox.com/s/59cu46h3kr8xrca/AGU_poster_ver5.pdf?dl=0" target="_blank">View poster here</a>
