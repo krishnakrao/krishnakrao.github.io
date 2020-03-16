@@ -9,8 +9,6 @@ redirect_from:
 ---
 Welcome to Krishna Rao's home on the web!
 
-Trial line.
-
 I am a PhD candidate in Earth System Science at Stanford University. 
 
 I develop machine learning algorithms to measure forest health (how wet or dry the forests are) using remote sensing. I work in the <a href="https://koningslab.stanford.edu/" target="_blank">Remote Sensing Ecohydrology Group</a> with Prof. Alexandra Konings. Before I started my PhD, I pursued my masters in Civil and Environmental Engineering at Stanford University and bachelors in Civil Engineering at Indian Institute of Technology Madras. For a brief period between my bachelors and masters, I was a wireline field engineer at Schlumberger in Northeast India. 
