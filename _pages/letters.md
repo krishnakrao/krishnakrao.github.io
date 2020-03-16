@@ -5,11 +5,7 @@ permalink: /letters/
 author_profile: true
 ---
 
-{% include image.html url="/images/map.png" caption="Predicted vegetation wetness over western US using remote sensing and deep learning." %}
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% include image.html url="/images/writing.jpg"%}
 
 {% include base_path %}
 
