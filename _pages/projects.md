@@ -8,8 +8,6 @@ entries_layout: grid
 classes: wide
 ---
 
-{% include base_path %}
-
 {% for post in site.projects reversed %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
