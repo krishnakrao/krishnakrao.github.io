@@ -12,6 +12,10 @@ main:
   - title: "Blog"
     url: /blog/
     
+  - title: "Letters"
+    url: /letters/
+    
   - title: "CV"
     url: /cv/
+ 
  
