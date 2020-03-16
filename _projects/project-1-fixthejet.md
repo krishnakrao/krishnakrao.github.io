@@ -1,6 +1,6 @@
 ---
 title: "Fix the Jet"
-excerpt: "Swap colormaps in images to those that are colorblind-friendly and perceptually uniform <br/><img src='/images/fixthejet.png'>"
+excerpt: "Swap colormaps in images to those that are colorblind-friendly and perceptually uniform <br/><img src='/images/fixthejet.jpg'>"
 collection: portfolio
 ---
 
@@ -12,7 +12,7 @@ Information can be transformed into knowledge by consuming it in a way to unders
 
 This script allows you to change an image (.jpg/.png) file made with _jet_ colormap to any other colormap of your choice. The script selectively changes _jet_ colors only. All others colors in the image remain unchanged (including background and text). 
 
-<img src='/images/fixthejet.png'>
+<img src='/images/fixthejet.jpg'>
 
 [Link to repository](https://github.com/kkraoj/fixthejet)
 
