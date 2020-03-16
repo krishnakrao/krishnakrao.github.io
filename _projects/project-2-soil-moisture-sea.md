@@ -1,7 +1,7 @@
 ---
 title: "Fire Prediction in Southeast Asia using Machine Learning"
 excerpt: "Detecting fire occurence in Southeast Asia using satellite remote sensing and machine learning <br/><img src='/images/firepredsea.png'>"
-collection: portfolio
+collection: projects
 ---
 
 Land fires in Southeast Asia have increased dramatically over the past 30 years due to changes in land use and population density, draining of swamp forests, etc.. In 2015, Indonesian fires alone are estimated to have emitted as much carbon dioxide as India’s annual fossil fuel usage, and to have caused around 12,000 premature deaths. The massive negative environmental and health impacts have prompted increasing interest from regional governments in better quantifying fire risks and identifying land management strategies. One of the major contributing factors is the equatorial Asian peatlands, which is one of the world’s biggest carbon sinks. However, regional-scale investigation of peatland hydrology is made difficult by the location's inaccessibility of peat forests. 
