@@ -3,6 +3,7 @@ layout: archive
 title: "Educational and travel blog posts"
 entries_layout: grid
 permalink: /blog/
+image: "/images/coverpicture.jpeg"
 author_profile: true
 ---
 
