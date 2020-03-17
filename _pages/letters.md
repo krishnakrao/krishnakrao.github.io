@@ -7,7 +7,7 @@ author_profile: true
 
 {% include image.html url="/images/writing.jpg"%}
 
-These are the letters I send out to my community every year to help stay connected. 
+These are the letters I send out annually to help stay connected with my community. 
 
 {% include base_path %}
 
