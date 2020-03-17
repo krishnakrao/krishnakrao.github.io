@@ -17,9 +17,9 @@ I develop machine learning algorithms to measure forest health (how wet or dry t
 
 My research interests include understanding forest hydraulic health dynamics towards charecterizing wildfire risk and drought impacts on vegetation. To do so, I work across several scales - from plot-scale measurements to landscape-scale estimations.  To know more about my research, check out my [publications](https://krishnakrao.github.io/publications/) or [talks](https://krishnakrao.github.io/talks/). 
 
-## Data Science
+## Skills
 
-My work involves developing data-driven approaches to understand the Earth system. While learning skills related to data science, I worked on several projects to gain hands-on experience. The [projects tab](https://krishnakrao.github.io/projects/) includes such side projects.
+My research work involves developing data-driven approaches to understand the Earth system. While learning skills related to data science, I worked on several projects to gain hands-on experience. The [projects tab](https://krishnakrao.github.io/projects/) includes such side projects.
 
 ## Hobbies
 
