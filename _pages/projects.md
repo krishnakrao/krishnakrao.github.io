@@ -6,6 +6,7 @@ author_profile: true
 collection: projects
 entries_layout: grid
 classes: wide
+image: "/images/coverpicture.jpeg"
 ---
 
 {% for post in site.projects reversed %}
