@@ -5,10 +5,8 @@ entries_layout: grid
 permalink: /blog/
 author_profile: true
 ---
-![](/images/coverpicture.jpeg)
-{% include base_path %}
 
-## Latest articles
+{% include base_path %}
 
 <div id="retainable-rss-embed" 
 data-rss="https://medium.com/feed/@kkrao, https://medium.com/feed/bicycletouring"
