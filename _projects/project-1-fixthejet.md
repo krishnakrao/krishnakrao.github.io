@@ -10,6 +10,7 @@ Information can be transformed into knowledge by consuming it in a way to unders
 
 This script allows you to change an image (.jpg/.png) file made with _jet_ colormap to any other colormap of your choice. The script selectively changes _jet_ colors only. All others colors in the image remain unchanged (including background and text). 
 
-<img src='/images/fixthejet.jpg'>
+<img src='/images/fixthejet.jpg' alt= "image showing transformation in colormaps from jet colormap to viridis colormap">
+_Fix the Jet in action: Program transforms the color map while leaving all other colors unaffected_
 
 <a href="https://github.com/kkraoj/fixthejet" target="_blank">Link to repository</a>
