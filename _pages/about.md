@@ -17,7 +17,7 @@ For a brief period between my bachelors and masters, I was a Wireline field engi
 
 
 <figure>
-  <img src="/images/timespent.jpg" alt="Radial plot showing time spent various activities in the last 10 years. Coursework:40%, Job:25%, Research: 25%, Hobbies: 10%" width = "50%">
+  <img src="/images/timespent.jpg" alt="Radial plot showing time spent various activities in the last 10 years. Coursework:40%, Job:25%, Research: 25%, Hobbies: 10%" width = "10%">
   <figcaption>What I spent my time on in the last 10 years</figcaption>
 </figure>
 
