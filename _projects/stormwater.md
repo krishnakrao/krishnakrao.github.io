@@ -1,6 +1,6 @@
 ---
 title: "Stormwater Rate Simulator for New York City"
-excerpt: "A simulator which allocates stormwater-associated costs based on user inputs for several different rate structures and incentives.  <br/><img src='/images/stormwater.png'>"
+excerpt: "A simulator which allocates stormwater-associated costs based on user inputs for several different rate structures and incentives.  <br/><img src='/images/stormwater.PNG'>"
 date: 2019-03-03
 collection: projects
 ---
@@ -15,7 +15,7 @@ This interactive tool, that I developed during my internship at Valor Water Anal
 
 The tool focuses on the distributional effects of alternative stormwater fee designs, by examining how the total average water, wastewater, and stormwater bill would change for customers falling into various land use categories. Based on user input choices for future hypothetical scenarios, simulated monthly rates are displayed instantly by scraping through thousands of pre-simulated combinations of rate structures.
 
-{% include image.html url="/images/stormwater.png" alt="Simulated share of future revenues per landuse category- one of the outputs of the dashboard" %}
+{% include image.html url="/images/stormwater.PNG" alt="Simulated share of future revenues per landuse category- one of the outputs of the dashboard" %}
 
 _Simulated share of future revenues per landuse category- one of the outputs of the dashboard_
 
