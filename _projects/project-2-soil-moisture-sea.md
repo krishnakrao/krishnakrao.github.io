@@ -1,6 +1,7 @@
 ---
 title: "Fire Prediction in Southeast Asia using Machine Learning"
 excerpt: "Detecting fire occurence in Southeast Asia using satellite remote sensing and machine learning <br/><img src='/images/firepredsea.png'>"
+date: 2017-06-12
 collection: projects
 ---
 
