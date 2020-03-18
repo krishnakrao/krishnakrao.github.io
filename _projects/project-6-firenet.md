@@ -25,7 +25,7 @@ FireNet is the first wildfire risk forecasting system that operates at 250 m spa
 
 
 {% include image.html url="/images/firenet.png" alt="Firenet web-app being used to understand wildfire risk." %}
-_Firenet web-app being used to un derstand wildfire risk._
+_Firenet web-app being used to understand wildfire risk._
 
 <a href="https://devpost.com/software/wildfire-risk-treehacks" target="_blank">Link to project</a>
 
