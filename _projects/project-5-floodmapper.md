@@ -1,6 +1,7 @@
 ---
 title: "Flood Mapper: Automated Flood Detection System"
 excerpt: "Near-realtime global flood mapper using automated, localized change-detection <br/><img src='/images/floopmapper.png'>"
+date: 2018-02-12
 collection: projects
 ---
 
