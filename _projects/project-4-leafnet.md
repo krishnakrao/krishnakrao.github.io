@@ -1,6 +1,7 @@
 ---
 title: "Leafnet: Species identification using leaf images"
 excerpt: "Identify species of a tree using an image of its leaf. Model powered by deep learning and hosted as a chatbot. <br/><img src='/images/leafnet.png'>"
+date: 2018-03-12
 collection: projects
 ---
 
