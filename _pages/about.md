@@ -15,6 +15,8 @@ I develop machine learning algorithms to measure forest health (how wet or dry t
 
 For a brief period between my bachelors and masters, I was a Wireline field engineer at Schlumberger in Northeast India where I designed, executed and delivered reservoir characterization projects. For my details about my education and professional experience, view my [CV](https://krishnakrao.github.io/cv/). 
 
+{% include image.html url="/images/timespent.jpg" caption="What I spent my time on in the last 10 years." %}
+
 ### Research
 
 My research interests include understanding forest hydraulic health dynamics towards charecterizing wildfire risk and drought impacts on vegetation. To do so, I work across several scales - from plot-scale measurements to landscape-scale estimations.  To know more about my research, check out my [publications](https://krishnakrao.github.io/publications/) or [talks](https://krishnakrao.github.io/talks/). 
