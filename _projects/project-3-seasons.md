@@ -1,6 +1,7 @@
 ---
 title: "Can We Infer Seasons by Looking at Nature?"
 excerpt: "Live season detector using a network of cameras across North America <br/><img src='/images/seasoninfer.png'>"
+date: 2017-12-12
 collection: projects
 ---
 
