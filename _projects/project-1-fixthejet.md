@@ -1,6 +1,7 @@
 ---
 title: "Fix the Jet"
 excerpt: "Make images and figures colorblind friendly by swapping their colormaps <br/><img src='/images/fixthejet.jpg'>"
+date: 2017-12-03
 collection: projects
 ---
 
