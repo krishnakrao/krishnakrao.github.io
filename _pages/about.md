@@ -17,6 +17,11 @@ For a brief period between my bachelors and masters, I was a Wireline field engi
 
 {% include image.html url="/images/timespent.jpg" caption="What I spent my time on in the last 10 years." width = "20px" height = "20px" %}
 
+<figure>
+  <img src="/images/timespent.jpg" alt="this is a placeholder image">
+  <figcaption>This is a figure caption.</figcaption>
+</figure>
+
 ### Research
 
 My research interests include understanding forest hydraulic health dynamics towards charecterizing wildfire risk and drought impacts on vegetation. To do so, I work across several scales - from plot-scale measurements to landscape-scale estimations.  To know more about my research, check out my [publications](https://krishnakrao.github.io/publications/) or [talks](https://krishnakrao.github.io/talks/). 
