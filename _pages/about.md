@@ -15,11 +15,10 @@ I develop machine learning algorithms to measure forest health (how wet or dry t
 
 For a brief period between my bachelors and masters, I was a Wireline field engineer at Schlumberger in Northeast India where I designed, executed and delivered reservoir characterization projects. For my details about my education and professional experience, view my [CV](https://krishnakrao.github.io/cv/). 
 
-{% include image.html url="/images/timespent.jpg" caption="What I spent my time on in the last 10 years." width = "20px" height = "20px" %}
 
 <figure>
-  <img src="/images/timespent.jpg" alt="this is a placeholder image">
-  <figcaption>This is a figure caption.</figcaption>
+  <img src="/images/timespent.jpg" alt="Radial plot showing time spent various activities in the last 10 years. Coursework:40%, Job:25%, Research: 25%, Hobbies: 10%" width = "50%">
+  <figcaption>What I spent my time on in the last 10 years</figcaption>
 </figure>
 
 ### Research
