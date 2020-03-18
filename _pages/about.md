@@ -15,11 +15,7 @@ I develop machine learning algorithms to measure forest health (how wet or dry t
 
 For a brief period between my bachelors and masters, I was a Wireline field engineer at Schlumberger in Northeast India where I designed, executed and delivered reservoir characterization projects. For my details about my education and professional experience, view my [CV](https://krishnakrao.github.io/cv/). 
 
-
-<figure>
-  <img src="/images/timespent.jpg" alt="Radial plot showing time spent various activities in the last 10 years. Coursework:40%, Job:25%, Research: 25%, Hobbies: 10%" width = "10px">
-  <figcaption>What I spent my time on in the last 10 years</figcaption>
-</figure>
+![Radial plot showing time spent various activities in the last 10 years. Coursework:40%, Job:25%, Research: 25%, Hobbies: 10%](/images/rwc.jpg){:height="50%" width="50%"}
 
 ### Research
 
