@@ -18,5 +18,3 @@ A random forests regression (machine learning) with 32 variables describing topo
 ![Random forest analysis output showing that RWC estimate developed in this study is more than twice as important as any other variable in predicting drought-driven tree mortality.](/images/rwc.jpg){:height="50%" width="50%"}
 
 _Random forest analysis output showing that RWC estimate developed in this study is more than twice as important as any other variable in predicting drought-driven tree mortality._
-
-Recommended citation: <b>Rao, K.</b>, Anderegg, W.R.L., Sala, A., Martínez-Vilalta, J. & Konings, A.G. (2019). Satellite-based vegetation optical depth as an indicator of drought-driven tree mortality. <i>Remote Sens. Environ.</i>, 227, 125–136.
