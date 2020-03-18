@@ -23,7 +23,8 @@ FireNet is a rapid risk forecasting tool to characterize the three fundamental c
 FireNet is the first wildfire risk forecasting system that operates at 250 m spatial resolution. The best wildfire danger models like the National Fire Danger Rating System operate at approximate 25 Kms. This was possible because of the system's unique use of microwave as well as optical remote sensing. Moreover, existing systems have lesser accuracy in predicting fuel flammability (r-squared = 0.3) than our system (r-squared = 0.63). 
 
 
-{% include image.html url="/images/firenet.png" caption="Firenet web-app being used to understand wildfire risk." %}
+{% include image.html url="/images/firenet.png" alt="Firenet web-app being used to understand wildfire risk." %}
+_Firenet web-app being used to understand wildfire risk._
 
 <a href="https://devpost.com/software/wildfire-risk-treehacks" target="_blank">Link to project</a>
 
