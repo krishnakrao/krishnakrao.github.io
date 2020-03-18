@@ -12,6 +12,8 @@ Understanding and preserving worldwide biodiversity is central to addressing cha
 | Deep-Leafsnap |      86.2%     |      98.4%     |
 | **Leafnet**   |    **93.8%**   |    **99.5%**   |
 
-{% include image.html url="/images/leafnet.png" caption="Leafnet chatbot in action- user captures an image of a leaf on white background and chatbot replies with the predicted species instantly" %}
+{% include image.html url="/images/leafnet.png" alt="Leafnet chatbot in action- user captures an image of a leaf on white background and chatbot replies with the predicted species instantly" %}
+
+_Leafnet chatbot in action- user captures an image of a leaf on white background and chatbot replies with the predicted species instantly._
 
 <a href="https://github.com/kkraoj/leafnet" target="_blank">Link to repository</a>
