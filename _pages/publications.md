@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-{% include image.html url="/images/map.png" caption="Predicted vegetation wetness over western US using remote sensing and deep learning." %}
-
+{% include image.html url="/images/map.png" alt="Predicted vegetation wetness over western US using remote sensing and deep learning." %}
+_Predicted vegetation wetness over western US using remote sensing and deep learning._
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
