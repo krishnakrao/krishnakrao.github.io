@@ -1,6 +1,7 @@
 ---
 title: "FireNet: Wildfire Risk Forecaster for Social Equality"
 excerpt: "A deep learning system saving you from falling into the trap of wildfire risk and social inequality <br/><img src='/images/firenet.png'>"
+date: 2019-12-12
 collection: projects
 ---
 
