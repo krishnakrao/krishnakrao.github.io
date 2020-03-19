@@ -27,7 +27,7 @@ My research interests include understanding forest hydraulic health dynamics tow
 
 ### Skills
 
-My research work involves developing data-driven approaches to understand the Earth system. While learning skills related to data science in my coursework, I worked on several projects to gain hands-on experience. The [projects tab](https://krishnakrao.github.io/projects/) includes such side projects.
+Since my research involves developing data-driven approaches, where required, I apply machine learning and deep learning. While learning skills related to data science in my coursework, I worked on several projects to gain hands-on experience. The [projects tab](https://krishnakrao.github.io/projects/) includes such side projects.
 
 ### Job
 
