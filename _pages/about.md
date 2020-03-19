@@ -31,7 +31,7 @@ My research work involves developing data-driven approaches to understand the Ea
 
 ### Job
 
-For about 2 years between my bachelors and masters, I was a Wireline Field Engineer at Schlumberger in Northeast India where I designed, executed and delivered several projects for reservoir characterization (measuring quantity and quality of hydrocarbon payzones) and intervention (e.g., increase wellbore flow, plug old boreholes, etc.)
+For about 2 years between my bachelors and masters, I was a Wireline Field Engineer at Schlumberger in Northeast India. There, I designed, executed and delivered several projects for reservoir characterization (measuring quantity and quality of hydrocarbon payzones) and intervention (e.g., increase wellbore flow, plug old boreholes, etc.)
 
 ### Hobbies
 
