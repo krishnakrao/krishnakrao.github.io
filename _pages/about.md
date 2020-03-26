@@ -18,9 +18,9 @@ For more details about my education and professional experience, view my [CV](ht
 
 <picture>
     <source media="(min-width: 900px)" srcset="/images/timespent_wide.jpg">
-    <img src="/images/timespent.jpg" alt="Radial plot showing time spent various activities in the last 10 years. Coursework:40%, Job:25%, Research: 25%, Hobbies: 10%">
+    <img src="/images/timespent.jpg" alt="Plot showing time spent various activities in the last 10 years. Coursework:40%, Job:25%, Research: 25%, Hobbies: 10%">
 </picture>
-_What I spent my time on in the last 10 years._
+_My past activities viewed through a lens of sustainability._
 
 ### Research
 
