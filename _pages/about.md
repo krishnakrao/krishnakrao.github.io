@@ -16,7 +16,7 @@ I develop machine learning algorithms to measure forest health (how wet or dry t
 For more details about my education and professional experience, view my [CV](https://krishnakrao.github.io/cv/). 
 
 <picture>
-    <source media="(min-width: 900px)" srcset="/images/timespent_wide.jpg">
+    <source media="(min-width: 600px)" srcset="/images/timespent_wide.jpg">
     <img src="/images/timespent.jpg" alt="Plot showing time spent various activities in the last 10 years. Coursework:40%, Job:25%, Research: 25%, Hobbies: 10%">
 </picture>
 _My path viewed through a lens of sustainability._
