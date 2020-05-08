@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Educational and travel blog posts"
+title: "Latest blog posts"
 entries_layout: grid
 permalink: /blog/
 image: "/images/coverpicture.jpeg"
@@ -10,7 +10,7 @@ author_profile: true
 {% include base_path %}
 
 <div id="retainable-rss-embed" 
-data-rss="https://medium.com/feed/@kkrao, https://medium.com/feed/bicycletouring"
+data-rss="https://medium.com/feed/@kkrao"
 data-maxcols="3" 
 data-layout="grid" 
 data-poststyle="inline" 
