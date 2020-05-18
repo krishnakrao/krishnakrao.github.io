@@ -6,7 +6,7 @@ excerpt: 'This paper prsents a deep learning-based solution to rapidly estimate 
 date: 2020-05-01
 venue: 'Remote Sensing of Environment'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S003442572030167X'
-citation: '</b>Rao, K.</b>, Williams, A.P., Fortin, J. & Konings, A.G. (2020). SAR-enhanced mapping of live fuel moisture content. </i>Remote Sens. Environ.</i>, 245.'
+citation: '<b>Rao, K.</b>, Williams, A.P., Fortin, J. & Konings, A.G. (2020). SAR-enhanced mapping of live fuel moisture content. <i>Remote Sens. Environ.</i>, 245.'
 ---
 
 Assessing wildfire risk presents several challenges due to uncertainty in fuel flammability and ignition potential. Live fuel moisture content (LFMC) - the mass of water per unit dry biomass in vegetation - exerts a direct control on fuel ignitability, fuel availability and fire spread, and is thus an important parameter in assessing wildfire risk. Current estimates of LFMC from optical remote sensing or meteorological indices are insufficient to accurately map LFMC at landscape scale. 
