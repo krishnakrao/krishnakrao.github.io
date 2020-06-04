@@ -20,3 +20,5 @@ The high resolution dynamic LFMC maps presented here may assist in improved wild
 ![Seasonal changes in forest dryness mapped using our AI model. Forest dryness is displayed as a percentage of water in trees relative to their dry biomass.](/images/lfmc.gif){:height="50%" width="50%"}
 
 _Seasonal changes in forest dryness mapped using our AI model. Forest dryness is displayed as a percentage of water in trees relative to their dry biomass._
+
+Checkout the live fuel moisture maps on an interactive map <a href="https://kkraoj.users.earthengine.app/view/live-fuel-moisture" target="_blank">here</a>.
