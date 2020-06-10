@@ -1,6 +1,6 @@
 ---
 title: "DamageMap: A Post-Wildfire Damaged Building Detector"
-excerpt: "DamageMap is a system composed of rapid buildings damage assessment and a convenient user interface for result visualization. <br/><img src='/images/damagemap.png'>"
+excerpt: "DamageMap is a system composed of rapid buildings damage assessment and a convenient user interface for result visualization. <br/><img src='/images/damagemap.gif'>"
 date: 2020-5-1
 collection: projects
 ---
