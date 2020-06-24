@@ -1,12 +1,3 @@
-img {
-transition: filter .1s ease-in-out;
--webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
-filter: grayscale(100%); /* FF 35+ */ 
-}
-img:hover {
--webkit-filter: grayscale(100%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
-filter: grayscale(0%); /* FF 35+ */
-}
 div.sponsors {
   padding: 3% 2%;
   display: block;
@@ -36,19 +27,38 @@ div.sponsors ul li {
 }
 div.sponsors ul li a {
   width: 100%;
-  height: 90px;
+  height: 60px;
   overflow: hidden;
   display: inline-block;
 }
+
+div.sponsors ul li a img {
+    transition: filter .1s ease-in-out;
+    -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+    filter: grayscale(100%); /* FF 35+ */ 
+    top:0;
+    position:relative;
+    height: 60px;
+    width: 60px;
+    }
+
+
 div.sponsors ul li a:hover img {
-  top: -90px;
-}
-div.sponsors ul li a:focus {
-  outline: none;
-}
-div.sponsors ul li img {
-  width: 90px;
-  height: 180px;
-  position: relative;
-  top: 0;
-}
+  -webkit-filter: grayscale(100%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(0%); /* FF 35+ */
+  }
+
+/*
+*div.sponsors ul li a:hover img {
+*  top: -90px;
+*}
+*div.sponsors ul li a:focus {
+*  outline: none;
+*}
+* div.sponsors ul li img {
+*  width: 90px;
+*  height: 180px;
+*  position: relative;
+*  top: 0;
+*}
+*/
