@@ -5,8 +5,20 @@ permalink: /playground/
 author_profile: true
 
 ---
-<link rel="stylesheet" type="text/scss" href="/_sass/_trial.scss">
-<img src="/images/G4G_2019.jpg" alt="At Geo For Good Summit, Google, Santa Clara, California">
+
+<style>
+img {
+  transition: filter .1s ease-in-out;
+  -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(0%); /* FF 35+ */
+}
+img:hover {
+  -webkit-filter: grayscale(100%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(100%); /* FF 35+ */
+}
+</style>
+<!-- <link rel="stylesheet" type="text/scss" href="/_sass/_trial.scss"> -->
+<img src="/images/G4G_2019.jpg" alt="At Geo For Good Summit, Google, Santa Clara, California" width="60px">
 
 
 <!-- <div class="sponsors" style="padding-top:50px">
