@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+/* Container for flexboxes */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+/* Create four equal columns */
+.column {
+  flex: 20%;
+  padding: 20px;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+
+a:hover {
+  transition: filter .1s ease-in-out;
+  -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(0%); /* FF 35+ */
+}
+a {
+  -webkit-filter: grayscale(100%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(100%); /* FF 35+ */
+}
+
+/* On screens that are 992px wide or less, go from four columns to two columns */
+@media screen and (max-width: 992px) {
+  .column {
+    flex: 50%;
+  }
+}
