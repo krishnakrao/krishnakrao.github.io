@@ -43,22 +43,8 @@ div.sponsors ul li a img {
     }
 
 
-div.sponsors ul li a:hover img {
+div.sponsors ul li a img {
   -webkit-filter: grayscale(100%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
   filter: grayscale(0%); /* FF 35+ */
   }
 
-/*
-*div.sponsors ul li a:hover img {
-*  top: -90px;
-*}
-*div.sponsors ul li a:focus {
-*  outline: none;
-*}
-* div.sponsors ul li img {
-*  width: 90px;
-*  height: 180px;
-*  position: relative;
-*  top: 0;
-*}
-*/
