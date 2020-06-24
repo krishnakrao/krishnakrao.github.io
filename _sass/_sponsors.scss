@@ -15,16 +15,16 @@
   padding: 20px;
   text-align: center;
 }
-h2.centered {
+.centered {
   text-align: center;
 }
 
-a.greyed:hover {
+.greyed:hover {
   transition: filter .1s ease-in-out;
   -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
   filter: grayscale(0%); /* FF 35+ */
 }
-a.greyed {
+.greyed {
   -webkit-filter: grayscale(100%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
   filter: grayscale(100%); /* FF 35+ */
 }
