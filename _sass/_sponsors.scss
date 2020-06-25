@@ -2,9 +2,8 @@
   box-sizing: border-box;
 }
 
-/* Container for flexboxes */
-
-.sponsored{
+.sponsored #content {
+  /* Container for flexboxes */
   .row {
     display: flex;
     flex-wrap: wrap;
