@@ -3,14 +3,14 @@
 }
 
 /* Container for flexboxes */
-.row {
+.ceneteredrow {
   display: flex;
   flex-wrap: wrap;
   text-align: center;
 }
 
 /* Create four equal columns */
-.column {
+.centeredcolumn {
   flex: 20%;
   padding: 20px;
   text-align: center;
