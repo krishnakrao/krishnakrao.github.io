@@ -2,7 +2,7 @@
 title: "Macro to micro: microwave remote sensing of plant water content for physiology and ecology"
 collection: publications
 permalink: /publication/paper-2-microwave-review
-excerpt: 'This paper prsents a short review for the use of microwave remote sensing of plant water.'
+excerpt: 'This paper presents a short review for the use of microwave remote sensing of plant water.'
 date: 2019-03-01
 venue: 'New Phytologist'
 paperurl: 'https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15808'
