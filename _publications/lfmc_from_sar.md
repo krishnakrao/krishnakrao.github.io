@@ -2,7 +2,7 @@
 title: "SAR-enhanced mapping of live fuel moisture content"
 collection: publications
 permalink: /publication/lfmc_from_sar
-excerpt: 'This paper prsents a deep learning-based solution to rapidly estimate forest dryness across western USA.'
+excerpt: 'This paper presents a deep learning-based solution to rapidly estimate forest dryness across western USA.'
 date: 2020-05-01
 venue: 'Remote Sensing of Environment'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S003442572030167X'
