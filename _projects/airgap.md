@@ -5,8 +5,7 @@ date: 2020-11-03
 collection: projects
 ---
 
-df
-![AIRGAP Logo](https://github.com/krishnakrao/krishnakrao.github.io/blob/master/images/airgap.JPG?raw=true, "AIRGAP Logo")   
+![AIRGAP Logo](https://github.com/krishnakrao/krishnakrao.github.io/blob/master/images/airgap.JPG?raw=true=50x50, "AIRGAP Logo")   
   
 Air pollution kills over 7 million people annually. However, it can disproportionately affect some communities with lower socio-economic status. AIRGAP helps analyse and visualize this environmental justice issue and help close the gap in inequality. The application we built gives users the power to zoom into any area of interest around the world, and visualize how the environmental hazards posed by poor air quality intersect with the vulnerability posed by economic hardship
 
