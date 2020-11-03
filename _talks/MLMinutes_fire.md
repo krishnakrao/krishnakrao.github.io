@@ -9,4 +9,4 @@ location: "Stanford University"
 image: "/images/G4G_2019.jpg"
 ---
 
-<a href="https://www.mlminutes.com/post/2-predicting-wildfires-with-krishna-rao" target="_blank">Listen to the docast here</a>
+<a href="https://www.mlminutes.com/post/2-predicting-wildfires-with-krishna-rao" target="_blank">Listen to the podcast here</a>
