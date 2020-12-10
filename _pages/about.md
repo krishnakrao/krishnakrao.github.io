@@ -31,7 +31,7 @@ I am open to work remotely from Stanford, CA. Interested or know anyone who migh
 
 I am a PhD candidate in Earth System Science at Stanford University. 
 
-I develop machine learning algorithms to measure forest health (how wet or dry the forests are) using remote sensing. I work in the <a href="https://koningslab.stanford.edu/" target="_blank">Remote Sensing Ecohydrology Group</a> with Prof. Alexandra Konings. I got my bachleors in Civil Engineering at the Indian Institute of Technology Madras and my masters in Environmental Fluid Mechanics and Hydrology at Stanford University. During my bachelors and masters, I worked on several  independent studies which convinced me about the endless possibilities of impact-based research. My quest to develop technologies to measure forest health and help quantify climate change impacts on ecosystems is derived from that conviction. 
+I develop physics-assisted machine learning algorithms to measure forest health (how wet or dry the forests are) using remote sensing. I work in the <a href="https://koningslab.stanford.edu/" target="_blank">Remote Sensing Ecohydrology Group</a> with Prof. Alexandra Konings. I got my bachleors in Civil Engineering at the Indian Institute of Technology Madras and my masters in Environmental Fluid Mechanics and Hydrology at Stanford University. During my bachelors and masters, I worked on several  independent studies which convinced me about the endless possibilities of impact-based research. My quest to develop technologies to measure forest health and help quantify climate change impacts on ecosystems is derived from that conviction. 
 
 For more details about my education and professional experience, view my [CV](https://krishnakrao.github.io/cv/). 
 
