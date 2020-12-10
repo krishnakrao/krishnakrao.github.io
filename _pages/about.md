@@ -24,10 +24,10 @@ My skills include-
 2. Geospatial analytics
 3. Hypothesis testing (including causal inference) 
 
-I am open to work remotely from Stanford, CA. Interested or know anyone who might be interested in hiring me? [Please email me.](mailto:kkrao@stanford.edu).
+I am open to work remotely from Stanford, CA. Interested or know anyone who might be interested in hiring me? [Please email me.](mailto:kkrao@stanford.edu)
 
 
-#About me
+# About me
 
 I am a PhD candidate in Earth System Science at Stanford University. 
 
@@ -35,12 +35,12 @@ I develop physics-assisted machine learning algorithms to measure forest health 
 
 For more details about my education and professional experience, view my [CV](https://krishnakrao.github.io/cv/). 
 
-<picture>
+<!-- <picture>
     <source media="(min-width: 600px)" srcset="/images/timespent_wide.jpg">
     <img src="/images/timespent.jpg" alt="Plot showing time spent various activities in the last 10 years. Coursework:40%, Job:25%, Research: 25%, Hobbies: 10%">
 </picture>
 _My path viewed through a lens of sustainability._
-
+ -->
 ### Research
 
 My research interests include understanding forest hydraulic health dynamics towards charecterizing wildfire risk and drought impacts on vegetation. To do so, I work across several scales - from plot-scale measurements to landscape-scale estimations.  To know more about my research, check out my [publications](https://krishnakrao.github.io/publications/) or [talks](https://krishnakrao.github.io/talks/). 
