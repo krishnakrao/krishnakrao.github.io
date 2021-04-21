@@ -3,7 +3,7 @@ title: "Mapping forest dryness in the Western US"
 collection: talks
 type: "Talk"
 permalink: /talks/G4Glightning
-venue: "ML Minutes"
+venue: "Geo for Good Lightning Talks"
 date: 2021-04-08
 location: "Online"
 image: "/images/G4G_2019.jpg"
