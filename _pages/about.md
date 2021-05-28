@@ -14,8 +14,6 @@ image: "/images/coverpicture.jpeg"
     <img src="/images/timespent.jpg" alt="Time line of my previous experience">
 </picture>
 _My path since 2010._
-
-
 <!-- I am looking for an internship for the summer of 2021. I am eager to apply my skills in developing data-driven geospatial models to solve your problems! 
 
 My skills include- 
@@ -25,8 +23,6 @@ My skills include-
 3. Hypothesis testing (including causal inference) 
 
 I am open to work remotely from Stanford, CA. Interested or know anyone who might be interested in hiring me? [Please email me.](mailto:kkrao@stanford.edu) -->
-
-
 I am a PhD candidate in Earth System Science at Stanford University. 
 
 I develop physics-assisted machine learning algorithms to measure forest health (how wet or dry the forests are) using remote sensing. I work in the <a href="https://koningslab.stanford.edu/" target="_blank">Remote Sensing Ecohydrology Group</a> with Prof. Alexandra Konings. I got my bachleors in Civil Engineering at the Indian Institute of Technology Madras and my masters in Environmental Fluid Mechanics and Hydrology at Stanford University. During my bachelors and masters, I worked on several  independent studies which convinced me about the endless possibilities of impact-based research. My quest to develop technologies to measure forest health and help quantify climate change impacts on ecosystems is derived from that conviction. 
