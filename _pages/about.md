@@ -1,21 +1,20 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Hire me!"
+excerpt: "Hire me!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 image: "/images/coverpicture.jpeg"
 ---
-
 <picture>
     <source media="(min-width: 600px)" srcset="/images/timespent_wide.jpg">
-    <img src="/images/timespent.jpg" alt="Time line of my previous experience">
+    <img src="/images/hireme.jpg" alt="Time line of my previous experience">
 </picture>
-_My path since 2010._
+_My path since 2014._
 
-<!-- I am looking for an internship for the summer of 2021. I am eager to apply my skills in developing data-driven geospatial models to solve your problems! 
+I am looking for full-time jobs starting June 2022. I am eager to apply my skills in developing data-driven geospatial models to solve your problems! 
 
 My skills include- 
 
@@ -23,7 +22,9 @@ My skills include-
 2. Geospatial analytics
 3. Hypothesis testing (including causal inference) 
 
-I am open to work remotely from Stanford, CA. Interested or know anyone who might be interested in hiring me? [Please email me.](mailto:kkrao@stanford.edu) -->
+Interested or know anyone who might be interested in hiring me? [Please email me.](mailto:kkrao@stanford.edu)
+
+# About me
 
 I am a PhD candidate in Earth System Science at Stanford University. 
 
