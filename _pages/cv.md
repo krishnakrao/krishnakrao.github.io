@@ -5,6 +5,7 @@ permalink: /resume/
 author_profile: true
 redirect_from:
   - /cv
+  - /cv/
 image: "/images/coverpicture.jpeg"
 ---
 
