@@ -14,7 +14,7 @@ image: "/images/coverpicture.jpeg"
 </picture>
 _My path since 2014._
 
-I am looking for full-time roles as machine learning engineer or data-scientist starting June 2022. I am eager to apply my skills in developing data-driven geospatial models to solve your problems! 
+I am looking for full-time roles in industry as machine learning engineer or data-scientist starting June 2022. I am eager to apply my skills in developing data-driven geospatial models to solve your problems! 
 
 My skills include- 
 
