@@ -16,3 +16,13 @@ _DamageMap predictions on test set._
 
 
 Check out DamageMap on an interactive app <a href="https://kkraoj.users.earthengine.app/view/damagemap" target="_blank">here</a>.
+
+DamageMap in the news:
+
+1. [AI system developed by Stanford researchers identifies buildings damaged by wildfire, Stanford News](https://news.stanford.edu/2021/09/16/ai-system-identifies-buildings-damaged-wildfire/)
+1. [DamageMap Uses AI to Spot Damage from Wildfires, Tech Briefs](https://www.techbriefs.com/component/content/article/tb/stories/blog/40070)
+1. [New computer program rapidly detects homes, buildings damaged by wildfires, Monterey Herald](https://www.montereyherald.com/2021/12/26/new-computer-program-rapidly-detects-homes-buildings-damaged-by-wildfires/)
+1. [AI system to help identify buildings damaged by wildfire, India AI](https://indiaai.gov.in/news/ai-system-to-help-identify-buildings-damaged-by-wildfire)
+1. [New computer program quickly detects homes and buildings damaged by California wildfires, The Most](https://themost.org/new-computer-program-quickly-detects-homes-and-buildings-damaged-by-california-wildfires/)
+1. [New computer program rapidly detects homes, buildings damaged by California wildfires, Times Herald](https://www.timesheraldonline.com/2021/12/29/new-computer-program-rapidly-detects-homes-buildings-damaged-by-wildfires-2/)
+1. [AI Tool Uses Aerial Imaging to Scan Structures for Wildfire Damage, Photonics](https://www.photonics.com/Articles/AI_Tool_Uses_Aerial_Imaging_to_Scan_Structures/a67384)

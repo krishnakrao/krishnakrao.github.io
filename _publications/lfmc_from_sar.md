@@ -22,3 +22,14 @@ The high resolution dynamic LFMC maps presented here may assist in improved wild
 _Seasonal changes in forest dryness mapped using our AI model. Forest dryness is displayed as a percentage of water in trees relative to their dry biomass._
 
 Checkout the live fuel moisture maps on an interactive map <a href="https://kkraoj.users.earthengine.app/view/live-fuel-moisture" target="_blank">here</a>.
+
+In the news ...
+
+1. [Tracking the tinderbox: Stanford scientists map wildfire fuel moisture across western U.S., Stanford News](https://news.stanford.edu/2020/05/21/mapping-dry-wildfire-fuels-ai-new-satellite-data/)
+1. [How Artificial Intelligence, Satellites Could Help More Accurately Predict Wildfires, Weather.com](https://weather.com/safety/wildfires/news/2020-06-02-new-research-could-help-predict-wildfires)
+1. [As wildfire season approaches, AI could pinpoint risky regions using satellite imagery, Tech Crunch](https://techcrunch.com/2020/05/29/as-wildfire-season-approaches-ai-could-pinpoint-risky-regions-using-satellite-imagery/)
+1. [Fighting fire with AI: Using deep-learning to help predict wildfires in the US, Tech Republic](https://www.techrepublic.com/article/fighting-fire-with-ai-using-deep-learning-to-help-predict-wildfires-in-the-us/)
+1. [Can machine learning help predict forest fires?, ML Minutes](https://www.mlminutes.com/post/2-krishna-rao-can-machine-learning-help-predict-forest-fires)
+1. [How artificial intelligence helps monitor forest dryness, AWS Blog](https://aws.amazon.com/blogs/publicsector/how-artificial-intelligence-helps-monitor-forest-dryness/)
+1. [Using AI to fight wildfires, hpe.com](https://www.hpe.com/us/en/insights/articles/using-AI-to-fight-wildfires-2101.html)
+1. [Tracking the Tinderbox: Mapping Dry Wildfire Fuels With AI and New Satellite Data, Sci Tech Daily](https://scitechdaily.com/tracking-the-tinderbox-mapping-dry-wildfire-fuels-with-ai-and-new-satellite-data/)
