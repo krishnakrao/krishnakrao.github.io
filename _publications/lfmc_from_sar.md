@@ -33,3 +33,4 @@ In the news ...
 1. [How artificial intelligence helps monitor forest dryness, AWS Blog](https://aws.amazon.com/blogs/publicsector/how-artificial-intelligence-helps-monitor-forest-dryness/)
 1. [Using AI to fight wildfires, hpe.com](https://www.hpe.com/us/en/insights/articles/using-AI-to-fight-wildfires-2101.html)
 1. [Tracking the Tinderbox: Mapping Dry Wildfire Fuels With AI and New Satellite Data, Sci Tech Daily](https://scitechdaily.com/tracking-the-tinderbox-mapping-dry-wildfire-fuels-with-ai-and-new-satellite-data/)
+1. [I am AI, Nvidia GPU Technology Conference, 2021, Intro Video](https://www.youtube.com/watch?v=zNX1knTo2F4)
