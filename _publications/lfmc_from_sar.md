@@ -34,3 +34,5 @@ In the news ...
 1. [Using AI to fight wildfires, hpe.com](https://www.hpe.com/us/en/insights/articles/using-AI-to-fight-wildfires-2101.html)
 1. [Tracking the Tinderbox: Mapping Dry Wildfire Fuels With AI and New Satellite Data, Sci Tech Daily](https://scitechdaily.com/tracking-the-tinderbox-mapping-dry-wildfire-fuels-with-ai-and-new-satellite-data/)
 1. [I am AI, Nvidia GPU Technology Conference, 2021, Intro Video](https://www.youtube.com/watch?v=zNX1knTo2F4)
+1. <a href="https://earth.org/data_visualization/ai-and-wildfire-prediction/" target="_blank">AI and Wildfire Prediction, Earth.org</a>
+1. <a href="https://earth.org/data_visualization/california-2021-wildfire-season/" target="_blank">Dry Vegetation in California as it Braces for 2021 Wildfires, Earth.org</a>
