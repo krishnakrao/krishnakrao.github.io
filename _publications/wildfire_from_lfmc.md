@@ -20,3 +20,4 @@ In the news ...
 1. [Stanford researchers identify ‘double-hazard’ zones for wildfire in the West, Stanford News](https://news.stanford.edu/2022/02/07/wildfire-burn-area/)
 1. [The fastest population growth in the West’s wildland fringes is in ecosystems most vulnerable to wildfires, The Conversation](https://theconversation.com/the-fastest-population-growth-in-the-wests-wildland-fringes-is-in-ecosystems-most-vulnerable-to-wildfires-173410)
 1. <a href="https://omny.fm/shows/kqed-segmented-audio/new-study-shows-effects-of-drought-on-wildfire-dan" target="_blank">New Study Shows Effects of Drought on Wildfire Danger, KQED Radio</a>
+1. <a href="https://thehill.com/changing-america/sustainability/environment/593300-researchers-identify-double-hazard-zones-where" target="_blank">Researchers identify 'double-hazard' zones where Western wildfires pose increased risk, The Hill</a>

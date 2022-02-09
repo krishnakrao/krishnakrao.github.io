@@ -36,3 +36,4 @@ In the news ...
 1. [I am AI, Nvidia GPU Technology Conference, 2021, Intro Video](https://www.youtube.com/watch?v=zNX1knTo2F4)
 1. <a href="https://earth.org/data_visualization/ai-and-wildfire-prediction/" target="_blank">AI and Wildfire Prediction, Earth.org</a>
 1. <a href="https://earth.org/data_visualization/california-2021-wildfire-season/" target="_blank">Dry Vegetation in California as it Braces for 2021 Wildfires, Earth.org</a>
+1. <a href="https://www.kron4.com/wildfires/forecasting-wildfires-scientists-mapping-fuel-sources-around-bay-area/" target="_blank">Forecasting wildfires: Scientists mapping fuel sources around Bay Area, KRON News</a>
