@@ -23,4 +23,5 @@ In the news ...
 1. <a href="https://thehill.com/changing-america/sustainability/environment/593300-researchers-identify-double-hazard-zones-where" target="_blank">Researchers identify 'double-hazard' zones where Western wildfires pose increased risk, The Hill</a>
 1. <a href="https://thehill.com/policy/equilibrium-sustainability/593508-double-hazards-map-points-to-areas-at-highest-risk-for" target="_blank">'Double hazards' map points to a hidden geography of wildfire risk, The Hill</a>
 1. <a href="https://environmentjournal.online/articles/plant-and-soil-types-linked-to-increase-wildfires-in-united-states/" target="_blank">Plant and soil types linked to increase wildfires in United States, Environment Journal</a>
-
+1. <a href="https://www.earth.com/news/double-hazard-wildfire-zones-identified-in-the-american-west/" target="_blank">"Double-hazard" wildfire zones identified in the American West, Earth.com</a>
+1. <a href="https://abc7news.com/stanford-double-hazard-wildfire-west-zones-california-sierra-nevada/11568793/" target="_blank">Stanford researchers identify 'double-hazard' wildfire zones in the West, ABC News</a>
