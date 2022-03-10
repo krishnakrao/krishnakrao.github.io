@@ -25,3 +25,4 @@ In the news ...
 1. <a href="https://environmentjournal.online/articles/plant-and-soil-types-linked-to-increase-wildfires-in-united-states/" target="_blank">Plant and soil types linked to increase wildfires in United States, Environment Journal</a>
 1. <a href="https://www.earth.com/news/double-hazard-wildfire-zones-identified-in-the-american-west/" target="_blank">"Double-hazard" wildfire zones identified in the American West, Earth.com</a>
 1. <a href="https://abc7news.com/stanford-double-hazard-wildfire-west-zones-california-sierra-nevada/11568793/" target="_blank">Stanford researchers identify 'double-hazard' wildfire zones in the West, ABC News</a>
+1. <a href="https://www.nature.com/natecolevol/volumes/6/issues/3" target="_blank">Paper featured on the front page of Nature Ecology & Evolution, March 2022 Issue</a>
