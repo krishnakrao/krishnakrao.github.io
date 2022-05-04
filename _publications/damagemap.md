@@ -26,3 +26,4 @@ DamageMap in the news:
 1. [New computer program quickly detects homes and buildings damaged by California wildfires, The Most](https://themost.org/new-computer-program-quickly-detects-homes-and-buildings-damaged-by-california-wildfires/)
 1. [New computer program rapidly detects homes, buildings damaged by California wildfires, Times Herald](https://www.timesheraldonline.com/2021/12/29/new-computer-program-rapidly-detects-homes-buildings-damaged-by-wildfires-2/)
 1. [AI Tool Uses Aerial Imaging to Scan Structures for Wildfire Damage, Photonics](https://www.photonics.com/Articles/AI_Tool_Uses_Aerial_Imaging_to_Scan_Structures/a67384)
+1. [AI Model Rapidly Identifies Structures Damaged by Wildfires, NVIDIA Developer Blog](https://developer.nvidia.com/blog/ai-model-rapidly-identifies-structures-damaged-by-wildfires/)
