@@ -10,3 +10,6 @@ image: "/images/G4G_2019.jpg"
 ---
 
 <a href="https://www.youtube.com/watch?v=Q_aA6abPZP0" target="_blank">View presentation here</a>
+
+<a href="https://www.dropbox.com/s/qyyb1smg13omwif/Dissertation_Krishna_Rao.pdf" target="_blank">Read thesis here</a>
+
