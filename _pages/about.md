@@ -15,27 +15,12 @@ image: "/images/coverpicture.jpeg"
 </picture>
 _My path since 2014._
 
-<!-- I am looking for an internship for the summer of 2021. I am eager to apply my skills in developing data-driven geospatial models to solve your problems! 
 
-My skills include- 
 
-1. Developing physics-guided deep learning models (marrying mechanistic principles with empirical methods)
-2. Geospatial analytics
-3. Hypothesis testing (including causal inference) 
 
-I am open to work remotely from Stanford, CA. Interested or know anyone who might be interested in hiring me? [Please email me.](mailto:kkrao@stanford.edu) -->
 
-I am a PhD candidate in Earth System Science at Stanford University. 
+<!--- For more details about my education and professional experience, view my [CV](https://krishnakrao.github.io/cv/). -->
 
-I develop physics-assisted machine learning algorithms to measure forest health (how wet or dry the forests are) using remote sensing. I work in the <a href="https://koningslab.stanford.edu/" target="_blank">Remote Sensing Ecohydrology Group</a> with Prof. Alexandra Konings. I got my bachleors in Civil Engineering at the Indian Institute of Technology Madras and my masters in Environmental Fluid Mechanics and Hydrology at Stanford University. During my bachelors and masters, I worked on several  independent studies which convinced me about the endless possibilities of impact-based research. My quest to develop technologies to measure forest health and help quantify climate change impacts on ecosystems is derived from that conviction. 
-
-For more details about my education and professional experience, view my [CV](https://krishnakrao.github.io/cv/). 
-<!-- <picture>
-    <source media="(min-width: 600px)" srcset="/images/timespent_wide.jpg">
-    <img src="/images/timespent.jpg" alt="Plot showing time spent various activities in the last 10 years. Coursework:40%, Job:25%, Research: 25%, Hobbies: 10%">
-</picture>
-_My path viewed through a lens of sustainability._
- -->
 ### Research
 
 My research interests include understanding forest hydraulic health dynamics towards charecterizing wildfire risk and drought impacts on vegetation. To do so, I work across several scales - from plot-scale measurements to landscape-scale estimations.  To know more about my research, check out my [publications](https://krishnakrao.github.io/publications/) or [talks](https://krishnakrao.github.io/talks/). 

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Krishna Rao"
 title_separator          : "-"
 name                     : &name "Krishna Rao"
-description              : &description "PhD candidate at Stanford University"
+description              : &description "Earth Scientist"
 url                      : https://krishnakrao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "krishnakrao.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Krishna Rao"
   avatar           : "profile_blur.jpg"
-  bio              : "I develop machine learning algorithms for forest health monitoring. <br />I am a PhD candidate at Stanford University."
-  location         : "Stanford, California"
+  bio              : "Earth Scientist"
+  location         : "San Francisco, California"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-UCmLrUAAAAJ&hl=en"
